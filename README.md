@@ -19,6 +19,9 @@ View categories:
 Train/Validation split: 400 / 100
 The dataset includes titles, descriptions, transcripts, engagement metrics, and extracted video frames.
 
+Note:
+Dataset not included here. Models can be run with similar structured data.
+
 ## Methodology
 
 ### Visual Model (CNN–RNN Architecture)
